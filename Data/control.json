@@ -1,0 +1,89 @@
+{
+    "rooms": [
+        {
+            "name": "Habitacion",
+            "localip": "",
+            "state": "on",
+            "color": {
+                "r": "255",
+                "g": "255",
+                "b": "255",
+                "hex": "ffffff"
+            },
+            "sections": [
+                {
+                    "Name": "Puerta",
+                    "Inicio": "",
+                    "Fin": ""
+                },
+                {
+                    "Name": "Ventana",
+                    "Inicio": "",
+                    "Fin": ""
+                }
+            ]
+        },
+
+        {
+            "name": "Escritorio Sala",
+            "localip": "",
+            "state": "on",
+            "color": {
+                "r": "255",
+                "g": "255",
+                "b": "255",
+                "hex": "ffffff"
+            },
+            "sections": []
+        }
+    ],
+    "colors": [
+        {
+            "name": "Apagar",
+            "values": {
+                "Color1": {
+                    "r": "0",
+                    "g": "0",
+                    "b": "0"
+                }
+            },
+            "function":"off"
+        },
+        {
+            "name": "Personales",
+            "values": {
+                "Color1": {
+                    "r": "247",
+                    "g": "37",
+                    "b": "133"
+                },
+                "Color2": {
+                    "r": "181",
+                    "g": "23",
+                    "b": "158"
+                },
+                "Color3": {
+                    "r": "114",
+                    "g": "9",
+                    "b": "183"
+                }
+            }
+        },
+        {
+            "name": "Navidad",
+            "values": {
+                "Color1": {
+                    "r": "0",
+                    "g": "0",
+                    "b": "0"
+                }
+            }
+        }
+    ],
+
+    "effects":[
+        {
+            "name":"rainbow"
+        }
+    ]
+}
