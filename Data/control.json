@@ -3,11 +3,11 @@
         {
             "name": "Habitacion",
             "localip": "",
-            "state": "on",
+            "state": "off",
             "color": {
-                "r": "56",
-                "g": "102",
-                "b": "65",
+                "r": "255",
+                "g": "255",
+                "b": "255",
                 "hex": "ffffff"
             },
             "sections": [
